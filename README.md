@@ -1,4 +1,4 @@
-# Did the introduction of the Biological Passport Result in Lower BMIs in GC Winners?
+# Did the Introduction of Biological Passports Result in Lower BMIs in GC Winners?
 
 In this project, I wanted to investigate the question of whether or not the more stringent testing protocols brought on by the biological passport resulted in GC competitors that had a lower BMI. If so, this could mean that the drugs used by GC winners allowed them to carry more mass than what would be otherwise optimal.
 
@@ -16,3 +16,5 @@ First, I scraped the necessary data from wikipedia for each grand tour and then 
 Using Tableau, I created the dashboard below.
 
 ![GC_BMI_Dahsboard](https://github.com/grantcotherman/GrandTourBMI/assets/94634170/c5689dc4-0136-465f-a367-5ee4a19a1548)
+
+In summary, there certainly appears to be a correlation between the implementation of biological passports and a decrease in the average BMI for GC winners. While I believe there is some causation, enhances in exercise science and nutrition is as likely a cause as the increase in more rigorous testing.
