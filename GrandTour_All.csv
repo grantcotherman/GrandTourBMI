@@ -1,0 +1,300 @@
+Year,Country,Rider,Height (Meters),Weight (Kilograms),BMI,Race,Competition
+1991,Italy,Franco Chioccioli,NA,NA,NA,Giro d'Italia,GC
+1992,Spain,Miguel Indurain,1.88,79,22.35174287,Giro d'Italia,GC
+1993,Spain,Miguel Indurain,1.88,79,22.35174287,Giro d'Italia,GC
+1994,Russia,Evgeni Berzin,1.7,64,22.14532872,Giro d'Italia,GC
+1995,Switzerland,Tony Rominger,1.75,65,21.2244898,Giro d'Italia,GC
+1996,Russia,Pavel Tonkov,1.76,70,22.5981405,Giro d'Italia,GC
+1997,Italy,Ivan Gotti,1.73,65,21.71806609,Giro d'Italia,GC
+1998,Italy,Marco Pantani,1.72,58,19.605192,Giro d'Italia,GC
+1999,Italy,Ivan Gotti,1.73,65,21.71806609,Giro d'Italia,GC
+2000,Italy,Stefano Garzelli,1.75,62,20.24489796,Giro d'Italia,GC
+2001,Italy,Gilberto Simoni,1.7,59,20.41522491,Giro d'Italia,GC
+2002,Italy,Paolo Savoldelli,1.8,72,22.22222222,Giro d'Italia,GC
+2003,Italy,Gilberto Simoni,1.7,59,20.41522491,Giro d'Italia,GC
+2004,Italy,Damiano Cunego,1.69,58,20.30741221,Giro d'Italia,GC
+2005,Italy,Paolo Savoldelli,1.8,72,22.22222222,Giro d'Italia,GC
+2006,Italy,Ivan Basso,1.82,70,21.13271344,Giro d'Italia,GC
+2007,Italy,Danilo Di Luca,1.68,61,21.61281179,Giro d'Italia,GC
+2008,Spain,Alberto Contador,1.76,61,19.69266529,Giro d'Italia,GC
+2009,Russia,Denis Menchov,1.8,65,20.0617284,Giro d'Italia,GC
+2010,Italy,Ivan Basso,1.82,70,21.13271344,Giro d'Italia,GC
+2011,Italy,Michele Scarponi,1.74,62,20.47826661,Giro d'Italia,GC
+2012,Canada,Ryder Hesjedal,1.87,73,20.8756327,Giro d'Italia,GC
+2013,Italy,Vincenzo Nibali,1.81,65,19.8406642,Giro d'Italia,GC
+2014,Colombia,Nairo Quintana,1.67,59,21.1552942,Giro d'Italia,GC
+2015,Spain,Alberto Contador,1.76,61,19.69266529,Giro d'Italia,GC
+2016,Italy,Vincenzo Nibali,1.81,65,19.8406642,Giro d'Italia,GC
+2017,Netherlands,Tom Dumoulin,1.85,69,20.16070124,Giro d'Italia,GC
+2018,Great Britain,Chris Froome,1.86,68,19.6554515,Giro d'Italia,GC
+2019,Ecuador,Richard Carapaz,1.7,62,21.4532872,Giro d'Italia,GC
+2020,Great Britain,Tao Geoghegan Hart,1.83,65,19.4093583,Giro d'Italia,GC
+2021,Colombia,Egan Bernal,1.75,60,19.59183673,Giro d'Italia,GC
+2022,Australia,Jai Hindley,1.75,60,19.59183673,Giro d'Italia,GC
+2023,Slovenia,Primoz Roglic,1.77,65,20.74755019,Giro d'Italia,GC
+1991,Spain,Inaki Gaston,NA,NA,NA,Giro d'Italia,MC
+1992,Italy,Claudio Chiappucci,1.72,67,22.64737696,Giro d'Italia,MC
+1993,Italy,Claudio Chiappucci,1.72,67,22.64737696,Giro d'Italia,MC
+1994,Switzerland,Pascal Richard,1.77,67,21.38593635,Giro d'Italia,MC
+1995,Italy,Mariano Piccoli,1.73,64,21.383942,Giro d'Italia,MC
+1996,Italy,Mariano Piccoli,1.73,64,21.383942,Giro d'Italia,MC
+1997,Colombia,Chepe Gonzalez,1.68,56,19.84126984,Giro d'Italia,MC
+1998,Italy,Marco Pantani,1.72,58,19.605192,Giro d'Italia,MC
+1999,Colombia,Chepe Gonzalez,1.68,56,19.84126984,Giro d'Italia,MC
+2000,Italy,Francesco Casagrande,1.71,64,21.88707637,Giro d'Italia,MC
+2001,Colombia,Fredy Gonzalez,1.6,50,19.53125,Giro d'Italia,MC
+2002,Mexico,Julio Alberto Perez,1.71,58,19.83516296,Giro d'Italia,MC
+2003,Colombia,Fredy Gonzalez,1.6,50,19.53125,Giro d'Italia,MC
+2004,Germany,Fabian Wegmann,1.76,60,19.36983471,Giro d'Italia,MC
+2005,Venezuela,Jose Rujano,1.62,48,18.28989483,Giro d'Italia,MC
+2006,Spain,Juan Manuel Garate,1.74,62,20.47826661,Giro d'Italia,MC
+2007,Italy,Leonardo Piepoli,1.69,54,18.90690102,Giro d'Italia,MC
+2008,Italy,Emanuele Sella,1.65,54,19.83471074,Giro d'Italia,MC
+2009,Italy,Stefano Garzelli,1.75,62,20.24489796,Giro d'Italia,MC
+2010,Australia,Matthew Lloyd,1.71,62,21.20310523,Giro d'Italia,MC
+2011,Italy,Stefano Garzelli,1.75,62,20.24489796,Giro d'Italia,MC
+2012,Italy,Matteo Rabottini,NA,NA,NA,Giro d'Italia,MC
+2013,Italy,Stefano Pirazzi,1.8,62,19.13580247,Giro d'Italia,MC
+2014,Columbia,Julian Arredondo,1.64,58,21.56454491,Giro d'Italia,MC
+2015,Italy,Giovanni Visconti,1.75,63,20.57142857,Giro d'Italia,MC
+2016,Spain,Mikel Nieve,1.73,62,20.71569381,Giro d'Italia,MC
+2017,Spain,Mikel Landa,1.73,60,20.04744562,Giro d'Italia,MC
+2018,United Kingdom,Chris Froome,1.86,68,19.6554515,Giro d'Italia,MC
+2019,Italy,Giulio Ciccone,1.76,58,18.72417355,Giro d'Italia,MC
+2020,Portugal,Ruben Guerreiro,1.78,65,20.51508648,Giro d'Italia,MC
+2021,France,Geoffrey Bouchard,1.77,63,20.10916403,Giro d'Italia,MC
+2022,Netherlands,Koen Bouwman,1.78,60,18.9370029,Giro d'Italia,MC
+2023,France,Thibaut Pinot,1.8,63,19.44444444,Giro d'Italia,MC
+1991,Italy,Claudio Chiappucci,1.72,67,22.64737696,Giro d'Italia,PC
+1992,Italy,Mario Cipollini,1.89,77,21.55594748,Giro d'Italia,PC
+1993,Italy,Adriano Baffi,1.76,70,22.5981405,Giro d'Italia,PC
+1994,Uzbekistan,Djamolidine Abdoujaparov,1.74,72,23.78121284,Giro d'Italia,PC
+1995,Switzerland,Tony Rominger,1.75,65,21.2244898,Giro d'Italia,PC
+1996,Italy,Fabrizio Guidi,1.87,73,20.8756327,Giro d'Italia,PC
+1997,Italy,Mario Cipollini,1.89,77,21.55594748,Giro d'Italia,PC
+1998,Italy,Mariano Piccoli,1.73,64,21.383942,Giro d'Italia,PC
+1999,France,Laurent Jalabert,1.76,66,21.30681818,Giro d'Italia,PC
+2000,Russia,Dimitri Konyshev,1.86,77,22.25690831,Giro d'Italia,PC
+2001,Italy,Massimo Strazzer,1.77,68,21.70512943,Giro d'Italia,PC
+2002,Italy,Mario Cipollini,1.89,77,21.55594748,Giro d'Italia,PC
+2003,Italy,Gilberto Simoni,1.7,59,20.41522491,Giro d'Italia,PC
+2004,Italy,Alessandro Petacchi,1.85,70,20.45288532,Giro d'Italia,PC
+2005,Italy,Paolo Bettini,1.69,58,20.30741221,Giro d'Italia,PC
+2006,Italy,Paolo Bettini,1.69,58,20.30741221,Giro d'Italia,PC
+2008,Italy,Daniele Bennati,1.83,71,21.20099137,Giro d'Italia,PC
+2009,Russia,Denis Menchov,1.8,65,20.0617284,Giro d'Italia,PC
+2010,Australia,Cadel Evans,1.74,64,21.13885586,Giro d'Italia,PC
+2011,Italy,Michele Scarponi,1.74,62,20.47826661,Giro d'Italia,PC
+2012,Spain,Joaquim Rodriguez,1.69,58,20.30741221,Giro d'Italia,PC
+2013,United Kingdom,Mark Cavendish,1.75,70,22.85714286,Giro d'Italia,PC
+2014,France,Nacer Bouhanni,1.75,65,21.2244898,Giro d'Italia,PC
+2015,Italy,Giacomo Nizzolo,1.84,72,21.26654064,Giro d'Italia,PC
+2016,Italy,Giacomo Nizzolo,1.84,72,21.26654064,Giro d'Italia,PC
+2017,Colombia,Fernando Gaviria,1.8,71,21.91358025,Giro d'Italia,PC
+2018,Italy,Elia Viviani,1.78,67,21.14631991,Giro d'Italia,PC
+2019,Germany,Pascal Ackermann,1.8,78,24.07407407,Giro d'Italia,PC
+2020,France,Arnaud Demare,1.81,76,23.19831507,Giro d'Italia,PC
+2021,Slovakia,Peter Sagan,1.82,78,23.54788069,Giro d'Italia,PC
+2022,France,Arnaud Demare,1.81,76,23.19831507,Giro d'Italia,PC
+2023,Italy,Jonathan Milan,1.93,84,22.55094096,Giro d'Italia,PC
+1985,France,Bernard Hinault,1.74,62,20.47826661,Tour de France,GC
+1986,United States,Greg LeMond,1.78,67,21.14631991,Tour de France,GC
+1987,Ireland,Stephen Roche,1.75,74,24.16326531,Tour de France,GC
+1988,Spain,Pedro Delgado,1.71,64,21.88707637,Tour de France,GC
+1989,United States,Greg LeMond,1.78,67,21.14631991,Tour de France,GC
+1990,United States,Greg LeMond,1.78,67,21.14631991,Tour de France,GC
+1991,Spain,Miguel Indurain,1.88,79,22.35174287,Tour de France,GC
+1992,Spain,Miguel Indurain,1.88,79,22.35174287,Tour de France,GC
+1993,Spain,Miguel Indurain,1.88,79,22.35174287,Tour de France,GC
+1994,Spain,Miguel Indurain,1.88,79,22.35174287,Tour de France,GC
+1995,Spain,Miguel Indurain,1.88,79,22.35174287,Tour de France,GC
+1996,Denmark,Bjarne Riis,1.84,71,20.97117202,Tour de France,GC
+1997,Germany,Jan Ullrich,1.83,73,21.79820239,Tour de France,GC
+1998,Italy,Marco Pantani,1.72,58,19.605192,Tour de France,GC
+1999,United States,Lance Armstrong,1.78,72,22.72440348,Tour de France,GC
+2000,United States,Lance Armstrong,1.78,72,22.72440348,Tour de France,GC
+2001,United States,Lance Armstrong,1.78,72,22.72440348,Tour de France,GC
+2002,United States,Lance Armstrong,1.78,72,22.72440348,Tour de France,GC
+2003,United States,Lance Armstrong,1.78,72,22.72440348,Tour de France,GC
+2004,United States,Lance Armstrong,1.78,72,22.72440348,Tour de France,GC
+2005,United States,Lance Armstrong,1.78,72,22.72440348,Tour de France,GC
+2006,Spain,Oscar Pereiro,1.77,67,21.38593635,Tour de France,GC
+2007,Spain,Alberto Contador,1.76,61,19.69266529,Tour de France,GC
+2008,Spain,Carlos Sastre,1.71,61,20.86111966,Tour de France,GC
+2009,Spain,Alberto Contador,1.76,61,19.69266529,Tour de France,GC
+2010,Luxembourg,Andy Schleck,1.86,68,19.6554515,Tour de France,GC
+2011,Australia,Cadel Evans,1.74,64,21.13885586,Tour de France,GC
+2012,Great Britain,Bradley Wiggins,1.9,76,21.05263158,Tour de France,GC
+2013,Great Britain,Chris Froome,1.86,68,19.6554515,Tour de France,GC
+2014,Italy,Vincenzo Nibali,1.81,65,19.8406642,Tour de France,GC
+2015,Great Britain,Chris Froome,1.86,68,19.6554515,Tour de France,GC
+2016,Great Britain,Chris Froome,1.86,68,19.6554515,Tour de France,GC
+2017,Great Britain,Chris Froome,1.86,68,19.6554515,Tour de France,GC
+2018,Great Britain,Geraint Thomas,1.83,71,21.20099137,Tour de France,GC
+2019,Colombia,Egan Bernal,1.75,60,19.59183673,Tour de France,GC
+2020,Slovenia,Tadej Pogačar,1.76,66,21.30681818,Tour de France,GC
+2021,Slovenia,Tadej Pogačar,1.76,66,21.30681818,Tour de France,GC
+2022,Denmark,Jonas Vingegaard,1.75,60,19.59183673,Tour de France,GC
+2023,Denmark,Jonas Vingegaard,1.75,60,19.59183673,Tour de France,GC
+1991,Italy,Claudio Chiappucci,1.72,67,22.64737696,Tour de France,MC
+1992,Italy,Claudio Chiappucci,1.72,67,22.64737696,Tour de France,MC
+1993,Switzerland,Tony Rominger,1.75,65,21.2244898,Tour de France,MC
+1994,France,Richard Virenque,1.79,65,20.28650791,Tour de France,MC
+1995,France,Richard Virenque,1.79,65,20.28650791,Tour de France,MC
+1996,France,Richard Virenque,1.79,65,20.28650791,Tour de France,MC
+1997,France,Richard Virenque,1.79,65,20.28650791,Tour de France,MC
+1998,France,Christophe Rinero,1.72,65,21.97133586,Tour de France,MC
+1999,France,Richard Virenque,1.79,65,20.28650791,Tour de France,MC
+2000,Colombia,Santiago Botero,1.75,75,24.48979592,Tour de France,MC
+2001,France,Laurent Jalabert,1.76,66,21.30681818,Tour de France,MC
+2002,France,Laurent Jalabert,1.76,66,21.30681818,Tour de France,MC
+2003,France,Richard Virenque,1.79,65,20.28650791,Tour de France,MC
+2004,France,Richard Virenque,1.79,65,20.28650791,Tour de France,MC
+2005,Denmark,Michael Rasmussen,1.74,58,19.15708812,Tour de France,MC
+2006,Denmark,Michael Rasmussen,1.74,58,19.15708812,Tour de France,MC
+2007,Colombia,Mauricio Soler,1.9,70,19.39058172,Tour de France,MC
+2008,Spain,Carlos Sastre,1.71,61,20.86111966,Tour de France,MC
+2009,Spain,Egoi Martínez,1.81,70,21.36686914,Tour de France,MC
+2010,France,Anthony Charteau,1.75,67,21.87755102,Tour de France,MC
+2011,Spain,Samuel Sánchez,1.75,65,21.2244898,Tour de France,MC
+2012,France,Thomas Voeckler,1.74,71,23.45091822,Tour de France,MC
+2013,Colombia,Nairo Quintana,1.67,59,21.1552942,Tour de France,MC
+2014,Poland,Rafał Majka,1.73,62,20.71569381,Tour de France,MC
+2015,Great Britain,Chris Froome,1.86,68,19.6554515,Tour de France,MC
+2016,Poland,Rafał Majka,1.73,62,20.71569381,Tour de France,MC
+2017,France,Warren Barguil,1.83,61,18.21493625,Tour de France,MC
+2018,France,Julian Alaphilippe,1.73,62,20.71569381,Tour de France,MC
+2019,France,Romain Bardet,1.85,65,18.99196494,Tour de France,MC
+2020,Slovenia,Tadej Pogačar,1.76,66,21.30681818,Tour de France,MC
+2021,Slovenia,Tadej Pogačar,1.76,66,21.30681818,Tour de France,MC
+2022,Denmark,Jonas Vingegaard,1.75,60,19.59183673,Tour de France,MC
+2023,Italy,Giulio Ciccone,1.76,58,18.72417355,Tour de France,MC
+1991,Uzbekistan,Djamolidine Abdoujaparov,1.74,72,23.78121284,Tour de France,PC
+1992,France,Laurent Jalabert,1.76,66,21.30681818,Tour de France,PC
+1993,Uzbekistan,Djamolidine Abdoujaparov,1.74,72,23.78121284,Tour de France,PC
+1994,Uzbekistan,Djamolidine Abdoujaparov,1.74,72,23.78121284,Tour de France,PC
+1995,France,Laurent Jalabert,1.76,66,21.30681818,Tour de France,PC
+1996,Germany,Erik Zabel,1.78,69,21.77755334,Tour de France,PC
+1997,Germany,Erik Zabel,1.78,69,21.77755334,Tour de France,PC
+1998,Germany,Erik Zabel,1.78,69,21.77755334,Tour de France,PC
+1999,Germany,Erik Zabel,1.78,69,21.77755334,Tour de France,PC
+2000,Germany,Erik Zabel,1.78,69,21.77755334,Tour de France,PC
+2001,Germany,Erik Zabel,1.78,69,21.77755334,Tour de France,PC
+2002,Australia,Robbie McEwen,1.71,67,22.91303307,Tour de France,PC
+2003,Australia,Baden Cooke,1.8,75,23.14814815,Tour de France,PC
+2004,Australia,Robbie McEwen,1.71,67,22.91303307,Tour de France,PC
+2005,Norway,Thor Hushovd,1.83,83,24.78425752,Tour de France,PC
+2006,Australia,Robbie McEwen,1.71,67,22.91303307,Tour de France,PC
+2007,Belgium,Tom Boonen,1.92,82,22.24392361,Tour de France,PC
+2008,Spain,Oscar Freire,1.71,63,21.5450908,Tour de France,PC
+2009,Norway,Thor Hushovd,1.83,83,24.78425752,Tour de France,PC
+2010,Italy,Alessandro Petacchi,1.85,70,20.45288532,Tour de France,PC
+2011,Great Britain,Mark Cavendish,1.75,70,22.85714286,Tour de France,PC
+2012,Slovakia,Peter Sagan,1.82,78,23.54788069,Tour de France,PC
+2013,Slovakia,Peter Sagan,1.82,78,23.54788069,Tour de France,PC
+2014,Slovakia,Peter Sagan,1.82,78,23.54788069,Tour de France,PC
+2015,Slovakia,Peter Sagan,1.82,78,23.54788069,Tour de France,PC
+2016,Slovakia,Peter Sagan,1.82,78,23.54788069,Tour de France,PC
+2017,Australia,Michael Matthews,1.78,72,22.72440348,Tour de France,PC
+2018,Slovakia,Peter Sagan,1.82,78,23.54788069,Tour de France,PC
+2019,Slovakia,Peter Sagan,1.82,78,23.54788069,Tour de France,PC
+2020,Ireland,Sam Bennett,1.78,73,23.0400202,Tour de France,PC
+2021,Great Britain,Mark Cavendish,1.75,70,22.85714286,Tour de France,PC
+2022,Belgium,Wout van Aert,1.9,78,21.6066482,Tour de France,PC
+2023,Belgium,Jasper Philipsen,1.76,75,24.21229339,Tour de France,PC
+1991,Spain,Melcior Mauri,1.79,68,21.22280828,Vuelta a Espana,GC
+1992,Switzerland,Tony Rominger,1.75,65,21.2244898,Vuelta a Espana,GC
+1993,Switzerland,Tony Rominger,1.75,65,21.2244898,Vuelta a Espana,GC
+1994,Switzerland,Tony Rominger,1.75,65,21.2244898,Vuelta a Espana,GC
+1995,France,Laurent Jalabert,1.76,66,21.30681818,Vuelta a Espana,GC
+1996,Switzerland,Alex Zulle,1.85,72,21.03725347,Vuelta a Espana,GC
+1997,Switzerland,Alex Zulle,1.85,72,21.03725347,Vuelta a Espana,GC
+1998,Spain,Abraham Olano,1.78,64,20.19946976,Vuelta a Espana,GC
+1999,Germany,Jan Ullrich,1.83,73,21.79820239,Vuelta a Espana,GC
+2000,Spain,Roberto Heras,1.72,59,19.94321255,Vuelta a Espana,GC
+2001,Spain,Ángel Casero,1.84,72,21.26654064,Vuelta a Espana,GC
+2002,Spain,Aitor Gonzalez,1.77,69,22.02432251,Vuelta a Espana,GC
+2003,Spain,Roberto Heras,1.72,59,19.94321255,Vuelta a Espana,GC
+2004,Spain,Roberto Heras,1.72,59,19.94321255,Vuelta a Espana,GC
+2005,Spain,Roberto Heras,1.72,59,19.94321255,Vuelta a Espana,GC
+2006,Kazakhstan,Alexander Vinokourov,1.77,68,21.70512943,Vuelta a Espana,GC
+2007,Russia,Denis Menchov,1.8,65,20.0617284,Vuelta a Espana,GC
+2008,Spain,Alberto Contador,1.76,61,19.69266529,Vuelta a Espana,GC
+2009,Spain,Alejandro Valverde,1.77,61,19.47077787,Vuelta a Espana,GC
+2010,Italy,Vincenzo Nibali,1.81,65,19.8406642,Vuelta a Espana,GC
+2011,Great Britain,Chris Froome,1.86,68,19.6554515,Vuelta a Espana,GC
+2012,Spain,Alberto Contador,1.76,61,19.69266529,Vuelta a Espana,GC
+2013,United States,Chris Horner,1.8,70,21.60493827,Vuelta a Espana,GC
+2014,Spain,Alberto Contador,1.76,61,19.69266529,Vuelta a Espana,GC
+2015,Italy,Fabio Aru,1.83,63,18.81214727,Vuelta a Espana,GC
+2016,Colombia,Nairo Quintana,1.67,59,21.1552942,Vuelta a Espana,GC
+2017,Great Britain,Chris Froome,1.86,68,19.6554515,Vuelta a Espana,GC
+2018,Great Britain,Simon Yates,1.72,58,19.605192,Vuelta a Espana,GC
+2019,Slovenia,Primoz Roglic,1.77,65,20.74755019,Vuelta a Espana,GC
+2020,Slovenia,Primoz Roglic,1.77,65,20.74755019,Vuelta a Espana,GC
+2021,Slovenia,Primoz Roglic,1.77,65,20.74755019,Vuelta a Espana,GC
+2022,Belgium,Remco Evenepoel,1.71,61,20.86111966,Vuelta a Espana,GC
+1991,Columbia,Luis Herrera,1.69,57,19.95728441,Vuelta a Espana,MC
+1992,Spain,Carlos Hernandez,NA,NA,NA,Vuelta a Espana,MC
+1993,Switzerland,Tony Rominger,1.75,65,21.2244898,Vuelta a Espana,MC
+1994,France,Luc Leblanc,1.73,62,20.71569381,Vuelta a Espana,MC
+1995,France,Laurent Jalabert,1.76,66,21.30681818,Vuelta a Espana,MC
+1996,Switzerland,Tony Rominger,1.75,65,21.2244898,Vuelta a Espana,MC
+1997,Spain,Jose Maria Jimenez,1.87,70,20.01772999,Vuelta a Espana,MC
+1998,Spain,Jose Maria Jimenez,1.87,70,20.01772999,Vuelta a Espana,MC
+1999,Spain,Jose Maria Jimenez,1.87,70,20.01772999,Vuelta a Espana,MC
+2000,Spain,Carlos Sastre,1.71,61,20.86111966,Vuelta a Espana,MC
+2001,Spain,Jose Maria Jimenez,1.87,70,20.01772999,Vuelta a Espana,MC
+2002,Spain,Aitor Osa,1.76,64,20.66115702,Vuelta a Espana,MC
+2003,Columbia,Felix Cardenas,1.67,59,21.1552942,Vuelta a Espana,MC
+2004,Columbia,Felix Cardenas,1.67,59,21.1552942,Vuelta a Espana,MC
+2005,Spain,Joaquim Rodriguez,1.69,58,20.30741221,Vuelta a Espana,MC
+2006,Spain,Egoi Martinez,1.81,70,21.36686914,Vuelta a Espana,MC
+2007,Russia,Denis Menchov,1.8,65,20.0617284,Vuelta a Espana,MC
+2008,France,David Moncoutie,1.8,69,21.2962963,Vuelta a Espana,MC
+2009,France,David Moncoutie,1.8,69,21.2962963,Vuelta a Espana,MC
+2010,France,David Moncoutie,1.8,69,21.2962963,Vuelta a Espana,MC
+2011,France,David Moncoutie,1.8,69,21.2962963,Vuelta a Espana,MC
+2012,Australia,Simon Clarke,1.75,63,20.57142857,Vuelta a Espana,MC
+2013,France,Nicolas Edet,1.76,60,19.36983471,Vuelta a Espana,MC
+2014,Spain,Luis Leon Sanchez,1.86,73,21.10070528,Vuelta a Espana,MC
+2015,Spain,Omar Fraile,1.84,72,21.26654064,Vuelta a Espana,MC
+2016,Spain,Omar Fraile,1.84,72,21.26654064,Vuelta a Espana,MC
+2017,Italy,Davide Villella,1.82,66,19.92512982,Vuelta a Espana,MC
+2018,Belgium,Thomas De Gendt,1.79,73,22.78330889,Vuelta a Espana,MC
+2019,France,Geoffrey Bouchard,1.77,63,20.10916403,Vuelta a Espana,MC
+2020,France,Guillaume Martin,1.73,55,18.37682515,Vuelta a Espana,MC
+2021,Australia,Michael Storer,1.74,63,20.80856124,Vuelta a Espana,MC
+2022,Ecuador,Richard Carapaz,1.7,62,21.4532872,Vuelta a Espana,MC
+1991,Germany,Uwe Raab,1.8,73,22.5308642,Vuelta a Espana,PC
+1992,Uzbekistan,Djamolidine Abdoujaparov,1.74,72,23.78121284,Vuelta a Espana,PC
+1993,Switzerland,Tony Rominger,1.75,65,21.2244898,Vuelta a Espana,PC
+1994,France,Laurent Jalabert,1.76,66,21.30681818,Vuelta a Espana,PC
+1995,France,Laurent Jalabert,1.76,66,21.30681818,Vuelta a Espana,PC
+1996,France,Laurent Jalabert,1.76,66,21.30681818,Vuelta a Espana,PC
+1997,France,Laurent Jalabert,1.76,66,21.30681818,Vuelta a Espana,PC
+1998,Italy,Fabrizio Guidi,1.87,73,20.8756327,Vuelta a Espana,PC
+1999,Belgium,Frank Vandenbroucke,1.79,67,20.91070816,Vuelta a Espana,PC
+2000,Spain,Roberto Heras,1.72,59,19.94321255,Vuelta a Espana,PC
+2001,Spain,Jose Maria Jimenez,1.87,70,20.01772999,Vuelta a Espana,PC
+2002,Germany,Erik Zabel,1.78,69,21.77755334,Vuelta a Espana,PC
+2003,Germany,Erik Zabel,1.78,69,21.77755334,Vuelta a Espana,PC
+2004,Germany,Erik Zabel,1.78,69,21.77755334,Vuelta a Espana,PC
+2005,Italy,Alessandro Petacchi,1.85,70,20.45288532,Vuelta a Espana,PC
+2006,Norway,Thor Hushovd,1.83,83,24.78425752,Vuelta a Espana,PC
+2007,Italy,Daniele Bennati,1.83,71,21.20099137,Vuelta a Espana,PC
+2008,Belgium,Greg Van Avermaet,1.81,74,22.58783309,Vuelta a Espana,PC
+2009,Germany,Andre Greipel,1.84,80,23.6294896,Vuelta a Espana,PC
+2010,Great Britain,Mark Cavendish,1.75,70,22.85714286,Vuelta a Espana,PC
+2011,Netherlands,Bauke Mollema,1.84,64,18.90359168,Vuelta a Espana,PC
+2012,Spain,Alejandro Valverde,1.77,61,19.47077787,Vuelta a Espana,PC
+2013,Spain,Alejandro Valverde,1.77,61,19.47077787,Vuelta a Espana,PC
+2014,Germany,John Degenkolb,1.8,82,25.30864198,Vuelta a Espana,PC
+2015,Spain,Alejandro Valverde,1.77,61,19.47077787,Vuelta a Espana,PC
+2016,Italy,Fabio Felline,1.75,68,22.20408163,Vuelta a Espana,PC
+2017,Great Britain,Chris Froome,1.86,68,19.6554515,Vuelta a Espana,PC
+2018,Spain,Alejandro Valverde,1.77,61,19.47077787,Vuelta a Espana,PC
+2019,Slovenia,Primoz Roglic,1.77,65,20.74755019,Vuelta a Espana,PC
+2020,Slovenia,Primoz Roglic,1.77,65,20.74755019,Vuelta a Espana,PC
+2021,Belgium,Fabio Jakobsen,1.81,78,23.80879705,Vuelta a Espana,PC
+2022,Denmark,Mads Pedersen,1.8,70,21.60493827,Vuelta a Espana,PC
