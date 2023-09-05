@@ -8,12 +8,12 @@ In professional cycling there are three grand tours that last three weeks. The G
 
 As with all sports with money involved, professional cycling has had problems with riders using performance enhanding drugs (PEDs) to gain an unfair advantage over their competition. While testing was commonplace throughout the 90s and early 2000s, it wasn't until 2008 that a system came along that made testing significantly harder to work around as a cheater, thereby making the sport much cleaner overall. This system is known as the Biological Passport and allows officials to look at testing results over time to check for abnormalities or inconsistencies in the results and markers. 
 
-## Process
 
-To scrape the data I utilized the lxml and requests libraries to retrieve the html from webpages and xpath to select the information I needed
+## Scraping and Visualization
 
-## Visualization
+First, I scraped the necessary data from wikipedia for each grand tour and then added in height and weight from procyclingstats.com before calculating BMI. Afterwards, I gave each csv two rows showing what competition and race it was from. Then, I combined the csvs using pandas.
 
-To visualize the data I used Tableau and created a bar chart comparing...
+Using Tableau, I created the dashboard below
 
-In progress
+![Tableau_GC_BMI](https://github.com/grantcotherman/GrandTourBMI/assets/94634170/c536f9c5-6347-4500-ab3c-92abba21d2d1)
+
