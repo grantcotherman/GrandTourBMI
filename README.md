@@ -13,7 +13,6 @@ As with all sports with money involved, professional cycling has had problems wi
 
 First, I scraped the necessary data from wikipedia for each grand tour and then added in height and weight from procyclingstats.com before calculating BMI. Afterwards, I gave each csv two rows showing what competition and race it was from. Then, I combined the csvs using pandas.
 
-Using Tableau, I created the dashboard below
+Using Tableau, I created the dashboard below.
 
-![Tableau_GC_BMI](https://github.com/grantcotherman/GrandTourBMI/assets/94634170/c536f9c5-6347-4500-ab3c-92abba21d2d1)
-
+![GC_BMI_Dahsboard](https://github.com/grantcotherman/GrandTourBMI/assets/94634170/c5689dc4-0136-465f-a367-5ee4a19a1548)
